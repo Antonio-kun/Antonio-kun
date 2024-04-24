@@ -10,7 +10,8 @@
 🎓 &nbsp;I am currently studying Computer Systems Engineering at Tecnológico de Morelia.\
 ✍️ &nbsp;In my spare time, I pursue music and the study of philosophy as hobbies/side pursuits.\
 ✉️ &nbsp;You can shoot me an email at antonio_1_2@outlook! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Linkedin](www.linkedin.com/in/marco-antonio-méndez-ferreyra-19b80726a) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/marco-antonio-m%C3%A9ndez-ferreyra-19b80726a) for more details about me. I'm open to feedback and suggestions!
+
 
 
 
@@ -39,6 +40,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marco-antonio-m%C3%A9ndez-ferreyra-19b80726a)
+[![Email](https://img.shields.io/badge/Email-antonio__1__2%40outlook.com-red?style=flat-square&logo=microsoft-outlook)](mailto:antonio_1_2@outlook.com)
 
 
 
