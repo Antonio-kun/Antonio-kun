@@ -40,8 +40,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/marco-antonio-méndez-ferreyra-19b80726a"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:antonio_1_2@outlook.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/marco-antonio-méndez-ferreyra-19b80726a"><img src="https://img.shields.io/badge/-Marco%20Antonio%20Mendez%20Ferreyra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:antonio_1_2@outlook.com"><img src="https://img.shields.io/badge/-antonio__1__2@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
